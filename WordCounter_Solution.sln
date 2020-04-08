@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCounter_UnitTestProject", "WordCounter_UnitTestProject\WordCounter_UnitTestProject.csproj", "{94B1C8DE-5CAB-4ADE-9807-CDD7702B40CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCounter_ConsoleApplication", "WordCounter_ConsoleApplication\WordCounter_ConsoleApplication.csproj", "{1824A38B-79E1-4E8F-AAFF-64080BECAC2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCounter_ClassLibrary", "WordCounter_ClassLibrary\WordCounter_ClassLibrary.csproj", "{0BC564C2-C0F8-44CC-9D9B-E221965BC7D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B1C8DE-5CAB-4ADE-9807-CDD7702B40CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B1C8DE-5CAB-4ADE-9807-CDD7702B40CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B1C8DE-5CAB-4ADE-9807-CDD7702B40CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B1C8DE-5CAB-4ADE-9807-CDD7702B40CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1824A38B-79E1-4E8F-AAFF-64080BECAC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1824A38B-79E1-4E8F-AAFF-64080BECAC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1824A38B-79E1-4E8F-AAFF-64080BECAC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1824A38B-79E1-4E8F-AAFF-64080BECAC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC564C2-C0F8-44CC-9D9B-E221965BC7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC564C2-C0F8-44CC-9D9B-E221965BC7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC564C2-C0F8-44CC-9D9B-E221965BC7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC564C2-C0F8-44CC-9D9B-E221965BC7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

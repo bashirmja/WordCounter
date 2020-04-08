@@ -1,0 +1,11 @@
+One first step is to ask the candidates to execute a test. It would be fantastic if you could do me the favor to solve the following small task in C# and send the result back to me until beginning of next wek. Please tell me also how much time you’ve spent.
+ 
+Write a program (and prove that it works) that: Given a text file, count the occurrence of each unique word in the file.
+For example; a file containing the string “Go do that thing that you do so well” should find these counts;
+1: Go
+2: do
+2: that
+1: thing
+1: you
+1: so
+1: well
